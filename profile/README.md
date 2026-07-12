@@ -1,13 +1,20 @@
-# 👋 Bem-vindo à Cla Code Community
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/300448055?s=400&u=58f0685821b14b1a43fa293b7d995be8901b824a&v=4" alt="Cla Code Community Logo" width="200" height="200">
+  
+  # 👋 Bem-vindo à Cla Code Community
+  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PrMxfPAsZ)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CJ9BqbIvasn5bxFsKbk6q8?s=cl&p=a&ilr=4)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cla-Code-Community)
+</div>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PrMxfPAsZ)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CJ9BqbIvasn5bxFsKbk6q8?s=cl&p=a&ilr=4)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cla-Code-Community)
+---
 
+## 🌐 Acesse Nossos Projetos
 
-### Site
-
- **Candidate:**  <a href="candidate.app.br//">candidate</a> 
+| Projeto | Link |
+|---------|------|
+| **Candidate** | [candidate.app.br](https://candidate.app.br/) |
 
 ---
 
